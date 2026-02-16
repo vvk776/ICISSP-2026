@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the ICISSP 2026 paper and this repository."
+title: "Zero Trust RL Experiments: PPO vs MC Dropout vs Bayesian NN"
+authors:
+  - family-names: "Kalekar"
+    given-names: "Vikram"
+version: "1.0.0"
+date-released: "2026-02-16"
+license: "Apache-2.0"
+repository-code: "https://github.com/<your-username>/<your-repo>"
+preferred-citation:
+  type: article
+  title: "Uncertainty-Aware Reinforcement Learning for Zero Trust: An Empirical Evaluation of PPO, MC Dropout, and Bayesian Neural Networks"
+  authors:
+    - family-names: "Kalekar"
+      given-names: "Vikram"
+  year: 2026
+  journal: "Proceedings of ICISSP 2026"
+  # doi: "10.xxxx/xxxxx"   # add when you have it
